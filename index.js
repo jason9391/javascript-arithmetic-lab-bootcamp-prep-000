@@ -1,1 +1,3 @@
-add = 1 + 80
+function add(a,b){
+  return a+b
+}
